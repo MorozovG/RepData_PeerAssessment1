@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-PrideNN  
+Morozov Gleb  
 Saturday, April 18, 2015  
 
 
