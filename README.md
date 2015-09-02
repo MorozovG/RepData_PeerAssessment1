@@ -1,3 +1,6 @@
+## Results
+[report](https://github.com/MorozovG/RepData_PeerAssessment1/blob/master/PA1_template.md)
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
